@@ -7,16 +7,16 @@ Part 1: Directions on Using Webstorm
 
 Part 2: Glossary
 
-Branch - A temporary area for develpment
-Clone -
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+- Branch - A temporary area for develpment
+- Clone
+- Commit
+- Fetch
+- GIT
+- Github - An online website for
+- Merge
+- Merge Conflict
+- Push
+- Pull
+- Remote
+- Repository
 
