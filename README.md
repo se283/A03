@@ -23,3 +23,5 @@ Part 2: Glossary
 - **Remote** -
 - **Repository** -
 
+Reference:
+- GitHub/Webstorm PowerPoint presentation
