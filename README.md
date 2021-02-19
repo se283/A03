@@ -5,7 +5,7 @@ Part 1: Directions on Using Webstorm
 2. Install Webstorm
 3. Download Git at https://git-scm.com/downloads
 4. Install Git
-5. Create an acount on Github at https://github.io 
+5. Create an acount on Github at https://www.github.com
 6. 
 
 Part 2: Glossary
