@@ -3,20 +3,23 @@
 Part 1: Directions on Using Webstorm
 1. Download Webstorm at https://www.jetbrains.com/webstorm/download/ 
 2. Install Webstorm
-3. 
+3. Download Git at https://git-scm.com/downloads
+4. Install Git
+5. Create an acount on Github at https://github.io 
+6. 
 
 Part 2: Glossary
 
-- Branch - A temporary area for develpment
-- Clone
-- Commit
-- Fetch
-- GIT
-- Github - An online website for
-- Merge
-- Merge Conflict
-- Push
-- Pull
-- Remote
-- Repository
+- **Branch** - 
+- **Clone** -
+- **Commit** -
+- **Fetch** -
+- **GIT** -
+- **Github** - An open source version control system which is used to keep track of source code and other document
+- **Merge** -
+- **Merge Conflict** -
+- **Push** -
+- **Pull** -
+- **Remote** -
+- **Repository** -
 
